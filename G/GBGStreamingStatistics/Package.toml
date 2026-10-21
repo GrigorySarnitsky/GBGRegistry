@@ -1,0 +1,3 @@
+name = "GBGStreamingStatistics"
+uuid = "f7630e6d-3fe9-47a8-b85f-33b009215466"
+repo = "https://github.com/GrigorySarnitsky/GBGStreamingStatistics.jl.git"
