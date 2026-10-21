@@ -5,3 +5,4 @@ description = "The GBG Julia packages and the tool they share, at their released
 
 [packages]
 3aee1de0-bb62-4679-b1c5-a861fbcaaa51 = { name = "GBGCodingTools", path = "G/GBGCodingTools" }
+f1da9c2b-0ac1-4736-96f9-af1c25aedab1 = { name = "GBGPeriodicFields", path = "G/GBGPeriodicFields" }
