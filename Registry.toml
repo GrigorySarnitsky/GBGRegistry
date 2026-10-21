@@ -4,3 +4,4 @@ repo = "https://github.com/GrigorySarnitsky/GBGRegistry.git"
 description = "The GBG Julia packages and the tool they share, at their released versions."
 
 [packages]
+3aee1de0-bb62-4679-b1c5-a861fbcaaa51 = { name = "GBGCodingTools", path = "G/GBGCodingTools" }
