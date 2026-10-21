@@ -1,0 +1,6 @@
+name = "GBGRegistry"
+uuid = "3814b2b5-8807-4f29-ae7d-b01a9903d964"
+repo = "https://github.com/GrigorySarnitsky/GBGRegistry.git"
+description = "The GBG Julia packages and the tool they share, at their released versions."
+
+[packages]
